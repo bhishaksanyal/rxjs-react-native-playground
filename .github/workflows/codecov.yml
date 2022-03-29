@@ -1,10 +1,12 @@
+# @format
+
 name: Codecov Workflow
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
@@ -21,5 +23,3 @@ jobs:
         with:
           # Repository upload token - get it from codecov.io. Required only for private repositories
           token: c56993f8-e4a0-428e-8dbf-85f848d7777f
-          
-          
