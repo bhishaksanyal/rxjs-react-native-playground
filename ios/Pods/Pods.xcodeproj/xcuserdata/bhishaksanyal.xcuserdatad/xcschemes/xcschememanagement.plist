@@ -74,12 +74,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ReactNativeTypescriptJest-ReactNativeTypescriptJestTests.xcscheme</key>
+		<key>Pods-rxjsPlayground-rxjsPlaygroundTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ReactNativeTypescriptJest.xcscheme</key>
+		<key>Pods-rxjsPlayground.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ReactNativeTypescriptJest.app"
-               BlueprintName = "ReactNativeTypescriptJest"
-               ReferencedContainer = "container:ReactNativeTypescriptJest.xcodeproj">
+               BuildableName = "rxjsPlayground.app"
+               BlueprintName = "rxjsPlayground"
+               ReferencedContainer = "container:rxjsPlayground.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeTypescriptJestTests.xctest"
-               BlueprintName = "ReactNativeTypescriptJestTests"
-               ReferencedContainer = "container:ReactNativeTypescriptJest.xcodeproj">
+               BuildableName = "rxjsPlaygroundTests.xctest"
+               BlueprintName = "rxjsPlaygroundTests"
+               ReferencedContainer = "container:rxjsPlayground.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeTypescriptJest.app"
-            BlueprintName = "ReactNativeTypescriptJest"
-            ReferencedContainer = "container:ReactNativeTypescriptJest.xcodeproj">
+            BuildableName = "rxjsPlayground.app"
+            BlueprintName = "rxjsPlayground"
+            ReferencedContainer = "container:rxjsPlayground.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeTypescriptJest.app"
-            BlueprintName = "ReactNativeTypescriptJest"
-            ReferencedContainer = "container:ReactNativeTypescriptJest.xcodeproj">
+            BuildableName = "rxjsPlayground.app"
+            BlueprintName = "rxjsPlayground"
+            ReferencedContainer = "container:rxjsPlayground.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
